@@ -1,3 +1,5 @@
+package Gun3Odev;
+
 public class StudentManager extends UserManager {
 
     public void displayProgress(Student student) {

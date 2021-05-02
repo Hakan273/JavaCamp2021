@@ -1,3 +1,5 @@
+package Gun3Odev;
+
 public class Instructor extends User {
 
     private String courses;

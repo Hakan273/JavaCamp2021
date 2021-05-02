@@ -1,3 +1,5 @@
+package Gun3Odev;
+
 public class Student extends User {
     private int studentNumber;
     private String coursesAttended;

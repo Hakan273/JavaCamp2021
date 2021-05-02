@@ -7,5 +7,6 @@ out/*
 .project
 *.iml
 .classpath
+out/*
 
 

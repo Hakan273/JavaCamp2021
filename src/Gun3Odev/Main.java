@@ -1,5 +1,12 @@
 package Gun3Odev;
 
+import Gun3Odev.Manager.InstructorManager;
+import Gun3Odev.Manager.StudentManager;
+import Gun3Odev.Manager.UserManager;
+import Gun3Odev.Model.Instructor;
+import Gun3Odev.Model.Student;
+import Gun3Odev.Model.User;
+
 public class Main {
 
     public static void main(String[] args) {

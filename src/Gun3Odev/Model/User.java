@@ -1,4 +1,4 @@
-package Gun3Odev;
+package Gun3Odev.Model;
 
 public class User {
     private int id;

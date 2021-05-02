@@ -1,4 +1,6 @@
-package Gun3Odev;
+package Gun3Odev.Manager;
+
+import Gun3Odev.Model.Instructor;
 
 public class InstructorManager extends UserManager {
 

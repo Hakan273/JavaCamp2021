@@ -1,6 +1,6 @@
-package Concrete;
-import Abstract.CustomerCheckService;
-import Entities.Customer;
+package Gun4Odev2_interfaceAbstractDemo.Concrete;
+import Gun4Odev2_interfaceAbstractDemo.Abstract.CustomerCheckService;
+import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
 
 public class CustomerCheckManager implements CustomerCheckService {
 

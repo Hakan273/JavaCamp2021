@@ -1,7 +1,7 @@
-package Adapters;
+package Gun4Odev2_interfaceAbstractDemo.Adapters;
 
-import Abstract.CustomerCheckService;
-import Entities.Customer;
+import Gun4Odev2_interfaceAbstractDemo.Abstract.CustomerCheckService;
+import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
 import tr.gov.nvi.tckimlik.WS.KPSPublicSoap;
 import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;
 

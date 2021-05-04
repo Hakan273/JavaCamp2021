@@ -1,7 +1,7 @@
-package Concrete;
-import Abstract.BaseCustomerManager;
-import Adapters.MernisServiceAdapter;
-import Entities.Customer;
+package Gun4Odev2_interfaceAbstractDemo.Concrete;
+import Gun4Odev2_interfaceAbstractDemo.Abstract.BaseCustomerManager;
+import Gun4Odev2_interfaceAbstractDemo.Adapters.MernisServiceAdapter;
+import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
 
 public class StarbucksCustomerManager extends BaseCustomerManager {
 

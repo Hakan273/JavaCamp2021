@@ -1,6 +1,6 @@
-package Abstract;
+package Gun4Odev2_interfaceAbstractDemo.Abstract;
 
-import Entities.Customer;
+import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
 
 public interface CustomerCheckService {
 	

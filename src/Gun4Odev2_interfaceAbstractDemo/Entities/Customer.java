@@ -1,7 +1,7 @@
-package Entities;
+package Gun4Odev2_interfaceAbstractDemo.Entities;
 import java.time.LocalDate;
 
-import Abstract.Entity;
+import Gun4Odev2_interfaceAbstractDemo.Abstract.Entity;
 
 public class Customer implements Entity {
 	private int id;

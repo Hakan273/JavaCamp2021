@@ -1,10 +1,12 @@
+package Gun4Odev2_interfaceAbstractDemo;
+
 import java.time.LocalDate;
-import Abstract.BaseCustomerManager;
-import Adapters.MernisServiceAdapter;
-import Concrete.CustomerCheckManager;
-import Concrete.NeroCustomerManager;
-import Concrete.StarbucksCustomerManager;
-import Entities.Customer;
+import Gun4Odev2_interfaceAbstractDemo.Abstract.BaseCustomerManager;
+import Gun4Odev2_interfaceAbstractDemo.Adapters.MernisServiceAdapter;
+import Gun4Odev2_interfaceAbstractDemo.Concrete.CustomerCheckManager;
+import Gun4Odev2_interfaceAbstractDemo.Concrete.NeroCustomerManager;
+import Gun4Odev2_interfaceAbstractDemo.Concrete.StarbucksCustomerManager;
+import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
 
 public class Main {
 
@@ -16,7 +18,7 @@ public class Main {
 		Customer customer1 = new Customer();
 		customer1.setId(1);
 		customer1.setFirstName("Engin");
-		customer1.setLastName("Demiroð");
+		customer1.setLastName("Demiroï¿½");
 		customer1.setDateOfBirth(LocalDate.of(1985, 1, 6));
 		customer1.setNationalityId("28861499108");
 

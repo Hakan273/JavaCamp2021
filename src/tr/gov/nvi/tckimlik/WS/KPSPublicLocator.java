@@ -5,9 +5,9 @@
  * by the Apache Axis 1.4 Apr 22, 2006 (06:55:48 PDT) WSDL2Java emitter.
  */
 
-package Gun4Odev2_interfaceAbstractDemo.tr.gov.nvi.tckimlik.WS;
+package tr.gov.nvi.tckimlik.WS;
 
-public class KPSPublicLocator extends org.apache.axis.client.Service implements Gun4Odev2_interfaceAbstractDemo.tr.gov.nvi.tckimlik.WS.KPSPublic {
+public class KPSPublicLocator extends org.apache.axis.client.Service implements tr.gov.nvi.tckimlik.WS.KPSPublic {
 
     public KPSPublicLocator() {
     }

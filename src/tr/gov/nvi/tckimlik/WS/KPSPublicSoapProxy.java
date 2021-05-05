@@ -1,6 +1,6 @@
-package Gun4Odev2_interfaceAbstractDemo.tr.gov.nvi.tckimlik.WS;
+package tr.gov.nvi.tckimlik.WS;
 
-public class KPSPublicSoapProxy implements Gun4Odev2_interfaceAbstractDemo.tr.gov.nvi.tckimlik.WS.KPSPublicSoap {
+public class KPSPublicSoapProxy implements tr.gov.nvi.tckimlik.WS.KPSPublicSoap {
   private String _endpoint = null;
   private tr.gov.nvi.tckimlik.WS.KPSPublicSoap kPSPublicSoap = null;
   

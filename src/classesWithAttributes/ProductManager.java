@@ -2,6 +2,6 @@ package classesWithAttributes;
 
 public class ProductManager {
     public void add(Product product) {
-        System.out.println("ÃœrÃ¼n eklendi " + product.getName());
+        System.out.println("Ürün eklendi " + product.getName());
     }
 }

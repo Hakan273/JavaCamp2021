@@ -1,5 +1,6 @@
-package Gun4Odev2_interfaceAbstractDemo.Abstract;
-import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
+package Gun4Odev2_InterfaceAbstractDemo.Abstract;
+
+import Gun4Odev2_InterfaceAbstractDemo.Entities.Customer;
 
 public abstract class BaseCustomerManager implements CustomerService {
 	
@@ -9,3 +10,4 @@ public abstract class BaseCustomerManager implements CustomerService {
 	}
 
 }
+

@@ -1,6 +1,7 @@
-package Gun4Odev2_interfaceAbstractDemo.Concrete;
-import Gun4Odev2_interfaceAbstractDemo.Abstract.BaseCustomerManager;
-import Gun4Odev2_interfaceAbstractDemo.Entities.Customer;
+package Gun4Odev2_InterfaceAbstractDemo.Concrete;
+
+import Gun4Odev2_InterfaceAbstractDemo.Abstract.BaseCustomerManager;
+import Gun4Odev2_InterfaceAbstractDemo.Entities.Customer;
 
 public class NeroCustomerManager extends BaseCustomerManager {
 	

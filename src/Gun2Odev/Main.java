@@ -23,7 +23,7 @@ public class Main {
         for (Course course : courses) {
             System.out.println("Kurs Adı: " + course.name);
             System.out.println("Kurs Bilgisi: " + course.info);
-            System.out.println("Eğitmen: " + course.instructor);
+            System.out.println("Egitmen: " + course.instructor);
             System.out.println(course.detail);
             System.out.println("------------------------------------------------------------");
         }
